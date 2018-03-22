@@ -1,3 +1,7 @@
+---
+title: Resources
+---
+
 ## Emergency Resources
 * [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/): 1-800-273-TALK (1-800-273-8255)
 * Nebraska DHHS 24-Hour Crisis Line: 1-402-717-HOPE (1-402-717-4673)

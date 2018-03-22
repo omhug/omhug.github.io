@@ -13,8 +13,8 @@ Sure do! It's important because it helps us know what we give a crap about. Here
 
 ## What's Our Goal?
 Our goal is to provide mental health support to people in the technical community in the Omaha area. We meet this goal with two complementary methods:
-1) We host a recurring meetup where we can listen to and support each other in a safe environment. This meetup will foster a culture of acceptance and respect.  
-2) We develop and provide persistent digital resources, including general mental health knowledge, suggestions and lifehacks, and contact info for local organizations and programs.  
+1. We host a recurring meetup where we can listen to and support each other in a safe environment. This meetup will foster a culture of acceptance and respect.  
+1. We develop and provide persistent digital resources, including general mental health knowledge, suggestions and lifehacks, and contact info for local organizations and programs.  
 
 We have a set of core [values](http://omhug.github.io/values.md) that are at the center of what we do. As part of those values, we ask that our attendees respect the other attendees and follow our [confidentiality](http://omhug.github.io/confidentiality.md) guidelines. 
 
