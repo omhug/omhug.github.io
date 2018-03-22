@@ -1,7 +1,7 @@
 ---
 title: Rules
 ---
-OMHUG does not have very many rules. We believe that adherence to our [values](http://omhug.github.io/values.md) will solve almost any problem or question that comes up in the running of the group, so that's Rule 0:
+OMHUG does not have very many rules. We believe that adherence to our [values](http://omhug.github.io/values.html) will solve almost any problem or question that comes up in the running of the group, so that's Rule 0:
 
 ## Rule 0
 Follow the OMHUG values, especially Value 0.

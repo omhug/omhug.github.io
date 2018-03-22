@@ -1,7 +1,7 @@
 ---
 title: Confidentiality
 ---
-OMHUG asks that you follow our confidentiality guidelines, as part of our [value](http://omhug.github.io/values.md) of Absolute Respect for other attendees. 
+OMHUG asks that you follow our confidentiality guidelines, as part of our [value](http://omhug.github.io/values.html) of Absolute Respect for other attendees. 
 
 Please reconsider before sharing the following things outside of OMHUG itself:
 * An OMHUG attendee's name.

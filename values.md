@@ -19,7 +19,7 @@ Each OMHUG attendee should hold absolute respect for other attendees. Everyone w
 Each OMHUG attendee should practice strenuous compassion for other attendees. Everyone who is at OMHUG has their own experiences with mental health or mental disorders and we should be compassionate towards their emotions.
 
 ### Confidentiality
-As part of respect for other OMHUG attendees, we should follow the [confidentiality](http://omhug.github.io/confidentiality.md) guidelines and be judicious about what we say outside of the group.
+As part of respect for other OMHUG attendees, we should follow the [confidentiality](http://omhug.github.io/confidentiality.html) guidelines and be judicious about what we say outside of the group.
 
 ### Mutual Support
 Each OMHUG attendee is there to both support and be supported by other attendees. If we want to make sure that the others are there for us, we need to be there for them.
