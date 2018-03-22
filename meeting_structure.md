@@ -1,3 +1,6 @@
+---
+title: Meeting Structure
+---
 ## Lean Coffee
 OMHUG relies heavily on the [Lean Coffee](http://leancoffee.org/) process to run our meetings. This allows everyone to have some control over what we talk about and what we do as a group. 
 
