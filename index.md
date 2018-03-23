@@ -26,7 +26,7 @@ OMHUG is open to everyone who feels they might benefit from attending. There are
 If you are simply interested in mental health (either for yourself or for a family member) you are welcome to attend, but we ask that you be respectful of the other attendees.
 
 ## When and Where Do We Meet?
-We meet at the Omaha Maker Group (8410 K Street, Suite #5, Omaha, NE) on the [tbd] Friday of every month. We have a meetup group at [].
+We meet at the Omaha Maker Group (8410 K Street, Suite #5, Omaha, NE) on the [tbd] Friday of every month. We have a [meetup group](https://www.meetup.com/Omaha-Mental-Health-User-Group/) so you can join that and keep up to date.
 
 ### Why Do We Meet in a Makerspace?
 1. It's free.
