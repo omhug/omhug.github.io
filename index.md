@@ -1,3 +1,4 @@
+![OMHUG Logo](http://omhug.github.io/omhug_logo.jpg)
 Welcome to the Omaha Mental Health User Group!
 
 **If you feel you need immediate and urgent mental help please call the National Suicide Prevention Lifeline at 1-800-273-TALK (1-800-273-8255) or the Nebraska DHHS 24-Hour Crisis Line at 1-402-717-HOPE (1-402-717-4673)!**
@@ -9,7 +10,7 @@ OMHUG is exactly what it sounds like - a user group. It just happens to be one f
 
 ## Wait... You Have a Mission Statement?
 Sure do! It's important because it helps us know what we give a crap about. Here it is:  
-> We believe that people in the technical community face unique pressures in their jobs, which can promote harmful habits or have other negative consequences for those who are also mental health consumers. Together, we intend to discover and develop new ways to assist ourselves in overcoming these pressures in ways that reduce their impact on us, our families, and our leisure time. 
+> We believe that people in the technical community face unique pressures in their jobs, which can promote harmful habits or have other negative consequences for those who also have lived experience of mental health or substance use challenges. Together, we intend to discover and develop new ways to assist ourselves in overcoming these pressures in ways that reduce their impact on us, our families, and our leisure time. 
 
 ## What's Our Goal?
 Our goal is to provide mental health support to people in the technical community in the Omaha area. We meet this goal with two complementary methods:
@@ -26,7 +27,7 @@ OMHUG is open to everyone who feels they might benefit from attending. There are
 If you are simply interested in mental health (either for yourself or for a family member) you are welcome to attend, but we ask that you be respectful of the other attendees.
 
 ## When and Where Do We Meet?
-We meet at the Omaha Maker Group (8410 K Street, Suite #5, Omaha, NE) on the [tbd] Friday of every month. We have a [meetup group](https://www.meetup.com/Omaha-Mental-Health-User-Group/) so you can join that and keep up to date.
+We meet at the Omaha Maker Group (8410 K Street, Suite #5, Omaha, NE) on the first Friday of every month. We have a [meetup group](https://www.meetup.com/Omaha-Mental-Health-User-Group/) so you can join that and keep up to date.
 
 ### Why Do We Meet in a Makerspace?
 1. It's free.
