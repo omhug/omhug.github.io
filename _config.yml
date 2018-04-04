@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+exclude: [Gemfile, Gemfile.lock]
+
+title: Omaha Mental Health User Group (OMHUG)
+url: "https://omhug.github.io/"
+repository: omhug/omhug.github.io
+description: A new kind of user group for a new era.

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Values
 ---
 OMHUG operates under a set of values that drive everything we do, and each attendee should strive to embody and display these values whenever possible. There's one primary _Value 0_, and four pillar values that underlay and support that value.

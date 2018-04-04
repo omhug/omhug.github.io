@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 Welcome to the Omaha Mental Health User Group!
 
 **If you feel you need immediate and urgent mental help please call the National Suicide Prevention Lifeline at 1-800-273-TALK (1-800-273-8255) or the Nebraska DHHS 24-Hour Crisis Line at 1-402-717-HOPE (1-402-717-4673)!**
