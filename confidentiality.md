@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Confidentiality
 ---
 OMHUG asks that you follow our confidentiality guidelines, as part of our [value](http://omhug.github.io/values.html) of Absolute Respect for other attendees. 
